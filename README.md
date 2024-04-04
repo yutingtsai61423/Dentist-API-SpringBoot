@@ -1,6 +1,6 @@
 # Yokult version2.0 SpringBoot ⌨
-## 作品介紹影片連結
-* https://youtu.be/WA7HqjGuXJ4
+## 作品介紹影片
+* [作品介紹影片@YouTube](https://youtu.be/WA7HqjGuXJ4)
 ## 作品內容
 * 病患掛號前台系統 ( 含前後端 ) - Booking
 * 門診時刻表與後台連動更新

@@ -6,11 +6,11 @@
 * 採用技術：
   * SpringBoot
   * JWT
-	* webMVC model
-	* Hibernate 
-	* MongoDB 
-	* MySQL
-	* maven建置
+  * webMVC model
+  * Hibernate 
+  * MongoDB 
+  * MySQL
+  * maven建置
 * 改版內容：
 	* 將 version1.1 使用的 Servlet API **升級成 SpringBoot 框架技術**
 ---

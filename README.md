@@ -1,5 +1,5 @@
 # Yokult version2.0 SpringBoot ⌨
-## 負責項目
+## 作品內容
 * 病患掛號前台系統 ( 含前後端 ) - Booking
 * 醫師後台系統 ( 含前後端 ) - Doctor
 ## 技術介紹

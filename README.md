@@ -1,5 +1,5 @@
-# Yokult API SpringBoot ⌨
-## 牙樂多診所 - 病患掛號前台 / 醫師病歷後台功能簡介影片
+# Dentist API SpringBoot ⌨
+## 牙醫診所 - 病患掛號前台 / 醫師病歷後台功能簡介影片
 * [作品介紹影片@YouTube](https://youtu.be/WA7HqjGuXJ4)
 ## 作品內容
 * 病患掛號前台系統 ( 含前後端 ) - Booking
